@@ -3,6 +3,7 @@ string name = Console.ReadLine();
 COnsole.Write("Enter Your Roll NO");
 int ROll_NO =Int.Parse(Console.ReadLine());
 COnsole.WriteLine($"Your name is {name}\n Your Roll No is {Roll_N0}");
+ 1-Semester-subjects
  2-Semester-subjects
 2 Semester subjetcs
 1.SCM
@@ -19,3 +20,13 @@ COnsole.WriteLine($"Your name is {name}\n Your Roll No is {Roll_N0}");
 5.EHS
 6.PShysics
  1-Semester-subjects
+=======
+FSc Subjects
+1.Maths
+2.Englsih
+3.Physics
+4.Urdu
+5.Islamiyat
+6.QT
+7.Computer Science
+fsc_subjects
