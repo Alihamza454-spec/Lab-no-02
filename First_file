@@ -2,4 +2,11 @@ Console.Write("Enter your Name");
 string name = Console.ReadLine();
 COnsole.Write("Enter Your Roll NO");
 int ROll_NO =Int.Parse(Console.ReadLine());
-COnsole.WriteLine($"Your name is {name}\n Your Roll No is {Roll_N0}");S
+COnsole.WriteLine($"Your name is {name}\n Your Roll No is {Roll_N0}");
+1 Semester subjects
+1.Calculus
+2.ITS
+3.CP
+4.Islamiyat
+5.EHS
+6.PShysics
